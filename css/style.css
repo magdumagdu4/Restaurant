@@ -1,5 +1,5 @@
 /*section1*/
-.conteiner {
+.conteiner1 {
 	width: 1170px;
 	margin: 0 auto;
 }
@@ -54,4 +54,31 @@
 }
 p {
 	margin-bottom: 10px;
+}
+/*section2*/
+.conteiner2 {
+	width: 1170px;
+	margin: 0 auto;
+}
+.top-box {
+	float: left;
+	background-color: #f8f8f8;
+	text-align: center;
+}
+.top2..after {
+	content: ' ';
+	clear: both;
+	display: block;
+}
+.size {
+	margin-right: 50px;
+}
+.aligment {
+	margin: 80px 1px 0 0;
+
+}
+.topbox..after {
+	content: ' ';
+	clear: both;
+	display: block;
 }
